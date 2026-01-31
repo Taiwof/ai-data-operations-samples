@@ -1,0 +1,22 @@
+[
+  {
+    "task": "Sentiment Classification",
+    "input": "The delivery was late and the product was damaged.",
+    "label": "Negative"
+  },
+  {
+    "task": "Intent Classification",
+    "input": "Can you help me reset my password?",
+    "label": "Support Request"
+  },
+  {
+    "task": "Toxicity Classification",
+    "input": "You are completely useless.",
+    "label": "Toxic"
+  },
+  {
+    "task": "Relevance Classification",
+    "input": "The capital of France is Paris.",
+    "label": "Not relevant to the question"
+  }
+]
